@@ -1,0 +1,58 @@
+Neutral Site,Conference Game,Home Team,Home Points,Away Team,Away Points,Winner
+False,True,Kentucky,35,Missouri,28,1
+False,True,Florida,29,Alabama,31,0
+False,True,Georgia,40,South Carolina,13,1
+False,True,Mississippi State,25,LSU,28,0
+False,True,Vanderbilt,0,Georgia,62,0
+True,True,Arkansas,20,Texas A&M,10,1
+False,True,South Carolina,10,Kentucky,16,0
+False,True,Florida,38,Tennessee,14,1
+False,True,Georgia,37,Arkansas,0,1
+False,True,Missouri,24,Tennessee,62,0
+False,True,Alabama,42,Ole Miss,21,1
+False,True,Kentucky,20,Florida,13,1
+False,True,Texas A&M,22,Mississippi State,26,0
+False,True,LSU,19,Auburn,24,0
+False,True,Ole Miss,52,Arkansas,51,1
+False,True,Florida,42,Vanderbilt,0,1
+False,True,Tennessee,45,South Carolina,20,1
+False,True,Auburn,10,Georgia,34,0
+False,True,Kentucky,42,LSU,21,1
+False,True,Texas A&M,41,Alabama,38,1
+False,True,Missouri,14,Texas A&M,35,0
+False,True,Arkansas,23,Auburn,38,0
+False,True,LSU,49,Florida,42,1
+False,True,Georgia,30,Kentucky,13,1
+False,True,South Carolina,21,Vanderbilt,20,1
+False,True,Mississippi State,9,Alabama,49,0
+False,True,Tennessee,26,Ole Miss,31,0
+False,True,Ole Miss,31,LSU,17,1
+False,True,Vanderbilt,6,Mississippi State,45,0
+False,True,Alabama,52,Tennessee,24,1
+False,True,Texas A&M,44,South Carolina,14,1
+False,True,Vanderbilt,28,Missouri,37,0
+True,True,Florida,7,Georgia,34,0
+False,True,Auburn,31,Ole Miss,20,1
+False,True,Mississippi State,31,Kentucky,17,1
+False,True,Georgia,43,Missouri,6,1
+False,True,Texas A&M,20,Auburn,3,1
+False,True,Arkansas,31,Mississippi State,28,1
+False,True,Alabama,20,LSU,14,1
+False,True,Kentucky,42,Tennessee,45,0
+False,True,South Carolina,40,Florida,17,1
+False,True,Auburn,34,Mississippi State,43,0
+False,True,Tennessee,17,Georgia,41,0
+False,True,Missouri,31,South Carolina,28,1
+False,True,Vanderbilt,17,Kentucky,34,0
+False,True,Ole Miss,29,Texas A&M,19,1
+False,True,LSU,13,Arkansas,16,0
+False,True,Alabama,42,Arkansas,35,1
+False,True,Missouri,24,Florida,23,1
+False,True,South Carolina,21,Auburn,17,1
+False,True,Ole Miss,31,Vanderbilt,17,1
+False,True,Mississippi State,21,Ole Miss,31,0
+False,True,Arkansas,34,Missouri,17,1
+False,True,Auburn,22,Alabama,24,0
+False,True,Tennessee,45,Vanderbilt,21,1
+False,True,LSU,27,Texas A&M,24,1
+True,True,Alabama,41,Georgia,24,1

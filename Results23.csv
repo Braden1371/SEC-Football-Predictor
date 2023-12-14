@@ -1,0 +1,57 @@
+Season,Week,Neutral Site,Conference Game,Home Team,Home Points,Away Team,Away Points,Winner
+2023,3,false,true,Mississippi State,14,LSU,41,0
+2023,3,false,true,Georgia,24,South Carolina,14,1
+2023,3,false,true,Florida,29,Tennessee,16,1
+2023,4,false,true,Vanderbilt,28,Kentucky,45,0
+2023,4,false,true,Texas A&M,27,Auburn,10,1
+2023,4,false,true,Alabama,24,Ole Miss,10,1
+2023,4,false,true,LSU,34,Arkansas,31,1
+2023,4,false,true,South Carolina,37,Mississippi State,30,1
+2023,5,false,true,Kentucky,33,Florida,14,1
+2023,5,true,true,Arkansas,22,Texas A&M,34,0
+2023,5,false,true,Auburn,20,Georgia,27,0
+2023,5,false,true,Vanderbilt,21,Missouri,38,0
+2023,5,false,true,Ole Miss,55,LSU,49,1
+2023,5,false,true,Tennessee,41,South Carolina,20,1
+2023,5,false,true,Mississippi State,17,Alabama,40,0
+2023,6,false,true,Missouri,39,LSU,49,0
+2023,6,false,true,Texas A&M,20,Alabama,26,0
+2023,6,false,true,Florida,38,Vanderbilt,14,1
+2023,6,false,true,Georgia,51,Kentucky,13,1
+2023,6,false,true,Ole Miss,27,Arkansas,20,1
+2023,7,false,true,Alabama,24,Arkansas,21,1
+2023,7,false,true,Vanderbilt,20,Georgia,37,0
+2023,7,false,true,Tennessee,20,Texas A&M,13,1
+2023,7,false,true,South Carolina,39,Florida,41,0
+2023,7,false,true,LSU,48,Auburn,18,1
+2023,7,false,true,Kentucky,21,Missouri,38,0
+2023,8,false,true,Arkansas,3,Mississippi State,7,0
+2023,8,false,true,Alabama,34,Tennessee,20,1
+2023,8,false,true,Missouri,34,South Carolina,12,1
+2023,8,false,true,Auburn,21,Ole Miss,28,0
+2023,9,false,true,Texas A&M,30,South Carolina,17,1
+2023,9,true,true,Florida,20,Georgia,43,0
+2023,9,false,true,Auburn,27,Mississippi State,13,1
+2023,9,false,true,Kentucky,27,Tennessee,33,0
+2023,9,false,true,Ole Miss,33,Vanderbilt,7,1
+2023,10,false,true,Florida,36,Arkansas,39,0
+2023,10,false,true,Ole Miss,38,Texas A&M,35,1
+2023,10,false,true,Georgia,30,Missouri,21,1
+2023,10,false,true,Vanderbilt,15,Auburn,31,0
+2023,10,false,true,Mississippi State,3,Kentucky,24,0
+2023,10,false,true,Alabama,42,LSU,28,1
+2023,11,false,true,South Carolina,,Vanderbilt,
+2023,11,false,true,Kentucky,,Alabama,
+2023,11,false,true,Missouri,,Tennessee,
+2023,11,false,true,Arkansas,,Auburn,
+2023,11,false,true,Georgia,,Ole Miss,
+2023,11,false,true,Texas A&M,,Mississippi State,
+2023,11,false,true,LSU,,Florida,
+2023,12,false,true,Tennessee,,Georgia,
+2023,12,false,true,Missouri,,Florida,
+2023,12,false,true,South Carolina,,Kentucky,
+2023,13,false,true,Mississippi State,,Ole Miss,
+2023,13,false,true,Arkansas,,Missouri,
+2023,13,false,true,Auburn,,Alabama,
+2023,13,false,true,LSU,,Texas A&M,
+2023,13,false,true,Tennessee,,Vanderbilt,
